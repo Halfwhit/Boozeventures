@@ -7,6 +7,7 @@ Boozeventures: Tales of the Splumblers
 - Character creation
 - Procedural level generation
 ### The Bup
+- Character animations
 - NPC character(s)
 - Hub instance
 ### Brewery
